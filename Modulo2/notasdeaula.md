@@ -6,10 +6,10 @@
 
 ## git add (caminho do arquivo)
 
-## adiciona um arquivo especifico
+## adiciona um arquivo especifico 
 
 ## git add . 
 
 ## adiciona todos os arquivos para a esteira de commit 
 
-## git 
+## git commit 
